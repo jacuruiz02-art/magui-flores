@@ -85,7 +85,7 @@ st.markdown('<div class="subtitle">21 de Septiembre · Un detalle a la distancia
 
 # 2. Foto de Magui
 foto_url = "https://lh3.googleusercontent.com/d/1jj0Kqm9tlZFgMwYLq22jxeTFRvXJdiqI"
-st.image(foto_url, use_column_width=True, caption="Magui 👑")
+st.image(foto_url, use_container_width=True, caption="Magui 👑")
 
 # 3. Reproductor de Música Automático (Perfect - Ed Sheeran)
 st.markdown("### 🎵 Nuestra Canción - Perfect")
